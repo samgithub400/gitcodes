@@ -5,6 +5,6 @@ public class Sum
         int x=10;
         int y=20;
         System.out.println("Welcome To The  Git Codes...");
-        System.out.println(x+y);
+        System.out.println("Addition Of Two Number="+x+y);
     }
 }
